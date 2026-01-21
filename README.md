@@ -1,2 +1,2 @@
 # startup_website
-Static website for Startup
+Static website for a startup
